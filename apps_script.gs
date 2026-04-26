@@ -3,7 +3,7 @@
 // ================================================================
  
 var SB_URL  = 'https://xelwubhbvcxeiatnjods.supabase.co/rest/v1/';
-var SB_KEY  = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhlbHd1YmhidmN4ZWlhdG5qb2RzIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc3NzEyOTk1OCwiZXhwIjoyMDkyNzA1OTU4fQ.dcCrVWbEB8dBvLOgahMM4ZApeoHm9sVx25P_SCqxgCA';
+var SB_KEY  = 'xx';
 var EMAIL   = 'martaf.gonzalez02@gmail.com';
 var F_PREST = '1XkOXKj5GsY7JHJ3cM8BOu2VXl8SLXzIjRvDQ4b_QEKc';
 var F_DEVOL = '1-kOBO4JhIiL9O4LfQ9vMKKxfmFtjUOuPljswbV3Wa4w';
