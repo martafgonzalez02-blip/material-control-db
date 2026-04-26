@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Club de Espeleología — Gestión de Material
 
 ## Formularios
@@ -84,3 +85,7 @@ inventarios ──< inventario_detalle >── material
 | `v_prestamos_vencidos` | Subconjunto de activos con fecha de retorno superada |
 | `v_miembros_activos` | Socios activos con conteo de préstamos |
 | `v_ultimo_inventario` | Resultado del último inventario (OK / Sobra / Falta) |
+=======
+# material-control-db
+A structured PostgreSQL database designed to manage the full lifecycle of equipment loans in a climbing and caving club. Tracks gear availability in real time, automates loan and return workflows through Google Forms and Apps Script, sends email notifications to members and club managers, and handles weekly overdue reminders.
+>>>>>>> 142fe91c7ef0535b819282b99f6ef87c49ce7ec2
