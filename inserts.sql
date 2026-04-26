@@ -30,9 +30,9 @@ INSERT INTO material (codigo, nombre, categoria_id, cantidad_total, estado) VALU
     ('OTR-COR-001', 'Cordino 6mm',                   (SELECT id FROM categorias_material WHERE nombre = 'Otros'),              10, 'bueno');
  
  
--- ================================================================
--- 5. MIEMBROS (161 socios — 103 adultos + 58 juveniles)
--- ================================================================
+-- ============================================================================
+-- 5. MIEMBROS (161 socios — 103 adultos + 58 juveniles) - datos de prueba
+-- ============================================================================
  
 INSERT INTO miembros (numero_socio, nombre, apellidos, email, telefono, tipo, fecha_alta, fecha_nacimiento, dni, activo, tutor_nombre, tutor_telefono, tutor_email) VALUES
 -- ── ADULTOS ─────────────────────────────────────────────────────
