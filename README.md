@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Club de Espeleología — Gestión de Material
 
 ## Formularios
