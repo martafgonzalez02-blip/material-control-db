@@ -3,8 +3,9 @@
 
 ## Formularios
 
-Solicitud préstamo de material: https://docs.google.com/forms/d/1XkOXKj5GsY7JHJ3cM8BOu2VXl8SLXzIjRvDQ4b_QEKc/viewform |
-Devolución de material: https://docs.google.com/forms/d/1-kOBO4JhIiL9O4LfQ9vMKKxfmFtjUOuPljswbV3Wa4w/viewform |
+Solicitud préstamo de material: https://docs.google.com/forms/d/1XkOXKj5GsY7JHJ3cM8BOu2VXl8SLXzIjRvDQ4b_QEKc/viewform
+
+Devolución de material: https://docs.google.com/forms/d/1-kOBO4JhIiL9O4LfQ9vMKKxfmFtjUOuPljswbV3Wa4w/viewform
 
 ---
 
